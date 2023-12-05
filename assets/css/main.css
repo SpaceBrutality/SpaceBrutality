@@ -1512,10 +1512,6 @@ input, select, textarea {
 			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		}
 
-#logo img {
-	margin-bottom: -10px;
-}
-
 /* Header */
 
 	#header {
@@ -2036,5 +2032,13 @@ input, select, textarea {
 
 
 		.location {
-			padding-top: 35px;
+			padding-top: 29px;
+		}
+
+		#logo img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 124px;
+			height: 124px;
 		}

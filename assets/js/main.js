@@ -22,7 +22,7 @@
 		// Title Bar.
 			$(
 				'<div id="titleBar">' +
-					'<span class="title">' + '<h1>Eviction Co.</h1>' + '</span>' +
+					'<span class="title">' + '<h1>Space Brutality</h1>' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
